@@ -1,3 +1,7 @@
 0.0.0.0 uadexchange.com
 0.0.0.0 uzone.id
 0.0.0.0 popcash.net
+0.0.0.0 adexchangeprediction.com
+0.0.0.0 parserord.info
+0.0.0.0 advertiserurl.com
+0.0.0.0 getresultsfast.net
