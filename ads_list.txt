@@ -6,3 +6,4 @@
 0.0.0.0 advertiserurl.com
 0.0.0.0 getresultsfast.net
 0.0.0.0 popadnetwork.com
+0.0.0.0 onclickads.net
