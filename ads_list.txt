@@ -10,6 +10,7 @@
 0.0.0.0 getresultsfast.net
 0.0.0.0 popadnetwork.com
 0.0.0.0 onclickads.net
+0.0.0.0 umzzaftkqgx.com
 
 ## Anti Miner From MRHPx
 127.0.0.1 aajychvi.bid
