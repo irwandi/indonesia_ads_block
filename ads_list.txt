@@ -11,6 +11,8 @@
 0.0.0.0 popadnetwork.com
 0.0.0.0 onclickads.net
 0.0.0.0 umzzaftkqgx.com
+0.0.0.0 indihome.co.id
+0.0.0.0 www.indihome.co.id
 
 ## Anti Miner From MRHPx
 127.0.0.1 aajychvi.bid
