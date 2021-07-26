@@ -13,6 +13,11 @@
 0.0.0.0 umzzaftkqgx.com
 0.0.0.0 indihome.co.id
 0.0.0.0 www.indihome.co.id
+0.0.0.0 sohu.com
+0.0.0.0 qq.com
+0.0.0.0 meituan.com
+0.0.0.0 163.com
+
 
 ## Anti Miner From MRHPx
 127.0.0.1 aajychvi.bid
